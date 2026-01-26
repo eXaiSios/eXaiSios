@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```yaml
+name: Charalampos Sidiropoulos
+located_in: Thessaloniki, Greece
+current_job: Student 
+education:
+  [
+    "Bachelor's in Computer Science",
+  ]
+
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Deep Learnig",
+    "Game Development",
+  ]
+
+currently_learning: ["Python, C#, and Unity"]
+hobbies: ["Gaming", "Cinema", "Reading", "Art", "Music"]
+```

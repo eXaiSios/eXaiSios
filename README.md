@@ -20,7 +20,7 @@ located_in: Thessaloniki, Greece
 current_job: Student 
 education:
   [
-    "Bachelor's in Computer Science",
+    "Undergrad in Computer Science",
   ]
 
 fields_of_interests:

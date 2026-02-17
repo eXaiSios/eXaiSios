@@ -25,7 +25,7 @@ education:
 
 fields_of_interests:
   [
-    "Machine Learning",
+    "Machine Learnig",
     "Deep Learnig",
     "Game Development",
   ]
